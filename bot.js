@@ -21,7 +21,7 @@ const gif = require("gif-search");
 const client = new Discord.Client({disableEveryone: true});
 
 const prefix = "o";
-var adminprefix = '0'
+var adminprefix = 'o'
 /////////////////////////
 ////////////////////////
 
@@ -345,6 +345,7 @@ client.on('message', message => {
     }
 });
 
+
 client.on('ready', () => {
    console.log(`----------------`);
       console.log(`skran`);
@@ -355,7 +356,5 @@ client.on('ready', () => {
   client.user.setGame(`oplay| Omaaàr RG I Back 2019 Bot`,"http://twitch.tv/y04zgamer")
    client.user.setStatus("dnd")
 });
-
-
 
 client.login("NTM0MDcwMjY4ODEzOTAxODQ1.Dx4KBg.Y5eJisRnotM9Ewd33FiyRHKtfNE");
