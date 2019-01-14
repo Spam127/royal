@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+NTM0MDcwMjY4ODEzOTAxODQ1.Dx4KBg.Y5eJisRnotM9Ewd33FiyRHKtfNEconst Discord = require('discord.js');
 
 const Util = require('discord.js');
 
@@ -358,4 +358,4 @@ client.on('ready', () => {
 
 
 
-client.login("NTM0MDcwMjY4ODEzOTAxODQ1.Dx0PVQ.XFOOs-DK_HBAHFx7cHQfhoovFd4");
+client.login("NTM0MDcwMjY4ODEzOTAxODQ1.Dx4KBg.Y5eJisRnotM9Ewd33FiyRHKtfNE");
