@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers `);
     console.log(`---------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-  client.user.setGame(`oplay| Omaaàr RG I Back 2019 Bot`,"http://twitch.tv/y04zgamer")
+  client.user.setGame(`Omaaàr RG : بوت ملوش اي داعي بس منظر`,"http://twitch.tv/y04zgamer")
    client.user.setStatus("dnd")
 });
 
